@@ -1,0 +1,2 @@
+window.proto = {};
+window.net = {};
